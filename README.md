@@ -1,4 +1,4 @@
-![Hi there](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRpeG1hbDJrbjNvYTE5ejV1dzdtdzBibTY2MXRhZ3NuazVlM2JzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ogwFGEHrVxusDbDjO/giphy.gif)
+![Hi there](https://media.giphy.com/media/a1QLZUUtCcgyA/giphy.gif)
 
 Software Engineer for Flutter/Dart and Android/Kotlin. My interests lie in coding, tech writing, 3D modelling, open source, movies and games. Currently working as a Software Engineer at Fatdoglabs.
 
