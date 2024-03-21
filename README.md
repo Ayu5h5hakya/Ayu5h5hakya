@@ -17,26 +17,25 @@ I started my coding journey from Android/Kotlin and then got a taste for Flutter
 - A beginner friendly dive into the inner workings of Flutter's Widget inspector devtool to find and debug common layout related issues.
 - **Flutter**
 
----
+# 
 [**RxDart Tutorial for Flutter: Getting Started**](https://www.kodeco.com/33931656-rxdart-tutorial-for-flutter-getting-started)
 
 - An article detailing the process of creating a Tetris clone in Flutter using RxDart concepts. In the process, the reader learns about the inner workings of RxDart and how to apply them for their own usecase.
 - **Flutter**
 
----
+# 
 [**A pull to refresh you can call your own**](https://medium.com/hackernoon/a-pull-to-refresh-you-can-call-your-own-6609870a1806)
 
 - A step by step arttcle detailing the process of creating a custom SwipeToRefreshlayout in Android.
 - **Android/Kotlin**
 
----
-
+# 
 [**The Remote config magic**](https://medium.com/android-news/the-remote-config-magic-e0086f550d77)
 
 - An introductory article for Firebase's Remote Config functionality.
 - **Android/Kotlin**
 
----
+# 
 [**Coexisting with Coroutines**](https://medium.com/smartideas/coexisting-with-coroutines-1-cf7d5e8500d8)
 
 - An easy to understand jumping off point for Coroutines and how Kotlin utilizes them to implement asynchronous functionality.
