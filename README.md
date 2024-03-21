@@ -9,9 +9,9 @@ I started my coding journey from Android/Kotlin and then got a taste for Flutter
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love watching movies. Finding underrated flicks has always been a passion of mine.
 
-****
-**Articles**
 ---
+# Articles
+
 [**Debugging Layout Issues Using the Widget Inspector**](https://www.kodeco.com/30099270-debugging-layout-issues-using-the-widget-inspector)
 
 - A beginner friendly dive into the inner workings of Flutter's Widget inspector devtool to find and debug common layout related issues.
