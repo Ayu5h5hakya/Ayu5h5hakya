@@ -40,3 +40,9 @@ I started my coding journey from Android/Kotlin and then got a taste for Flutter
 
 - An easy to understand jumping off point for Coroutines and how Kotlin utilizes them to implement asynchronous functionality.
 - **Android/Kotlin**
+
+---
+# Widget Animations/Shader samples
+Ticker            |  Radar
+:-------------------------:|:-------------------------:
+![](https://github.com/Ayu5h5hakya/ticker/blob/main/tickergif.gif)  |  <img src="https://github.com/Ayu5h5hakya/FragmentShaders/blob/main/radar.gif" width=50% height=50%>
