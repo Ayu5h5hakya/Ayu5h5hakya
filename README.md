@@ -46,3 +46,5 @@ I started my coding journey from Android/Kotlin and then got a taste for Flutter
 [Ticker](https://github.com/Ayu5h5hakya/ticker)            |  [Radar](https://github.com/Ayu5h5hakya/FragmentShaders/blob/main/assets/shaders/radar.frag)          | [OmniGrid](https://github.com/Ayu5h5hakya/Omnigrid)
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/Ayu5h5hakya/ticker/blob/main/tickergif.gif)  |  <img src="https://github.com/Ayu5h5hakya/FragmentShaders/blob/main/radar.gif" width=50% height=50%>  | <img src="https://github.com/Ayu5h5hakya/Omnigrid/blob/main/omni_grid_demo.gif" width=50% height=50%>
+[ShyText](https://github.com/Ayu5h5hakya/ShyText) 
+![](https://github.com/Ayu5h5hakya/ShyText/blob/master/sample2.gif)
